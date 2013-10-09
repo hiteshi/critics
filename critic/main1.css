@@ -1,0 +1,72 @@
+#container
+{
+	width:1300px;
+	background-color:#9999ff;
+
+}
+#header
+{
+
+	background-image:url('xyz.jpg');
+	background-repeat:no-repeat;
+	margin-bottom:10;
+}
+#menu
+{
+	background-color:#FFD700;
+	//height:200px;
+	width:1300px;
+	word-spacing:20px;
+	//float:left;
+}
+#content
+{
+	background-color:#FFD700;
+	height:200px;
+	width:1300px;
+	float:left;
+}
+#footer
+{
+	background-color:#FFD700;
+	clear:both;
+	text-align:center;
+}
+#electronics
+{
+	background-color:#ffff33;
+	width:100px;
+	height:50px;
+	padding:40px;
+	float:left;
+}
+#books
+{
+	background-color:#ffff66;
+	width:100px;
+	height:50px;
+	padding:40px;
+	float:left;
+}
+#accessories
+{
+	background-color:#ffff99;
+	width:100px;
+	height:50px;
+	padding:40px;
+	float:left;
+}
+#home
+{
+	background-color:#ffffcc;
+	width:100px;
+	height:50px;
+	padding:40px;
+	float:left;
+}
+h3
+{
+	text-align:center;
+	text-align:top;
+}
+
